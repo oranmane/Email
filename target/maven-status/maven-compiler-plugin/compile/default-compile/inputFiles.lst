@@ -1,0 +1,15 @@
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\servlets\AdminServlet.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\models\Note.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\services\AccountService.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\servlets\ResetPasswordServlet.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\filters\AdminFilter.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\filters\AuthenticationFilter.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\servlets\NoteServlet.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\servlets\LoginServlet.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\services\NoteService.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\dataaccess\DBUtil.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\dataaccess\UserDB.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\models\User.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\services\GmailService.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\dataaccess\NoteDB.java
+C:\cprg352\Labs\Email\src\main\java\ca\sait\email\models\Role.java
